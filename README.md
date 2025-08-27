@@ -71,7 +71,6 @@ Tests with known working PAN numbers.
 
 ```
 602621654
-150297983
 300112233
 ```
 
@@ -80,7 +79,6 @@ Tests with known working PAN numbers.
 ```csv
 PAN_Number
 602621654
-150297983
 300112233
 ```
 
@@ -88,7 +86,6 @@ PAN_Number
 
 ```
 602621654
-150297983
 300112233
 ```
 
@@ -102,7 +99,6 @@ Creates two Excel files in `output/` folder:
 ## Working Examples
 
 - PAN 602621654: Hotel Yellow House And Catering Service
-- PAN 150297983: NISHAM GHIMIRE
 
 ## Technical Features
 
